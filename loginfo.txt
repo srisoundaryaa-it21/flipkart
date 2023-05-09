@@ -2,3 +2,4 @@ username
  password
 
 forget password
+remember me
